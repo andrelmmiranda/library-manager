@@ -1,0 +1,16 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer span{
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.footer strong{
+    margin-left: 5px;
+}
